@@ -1,0 +1,7 @@
+{
+    "message": "PAUSE_REQUEST",
+    "data": {
+        "playerName": "Player1",
+        "pause": true
+    }
+}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BaumbartOverride
+  m_Controller: {fileID: 9100000, guid: ac9185ebf7e843d4ab68d99715dd68f2, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -4088448922868584454, guid: 41acdac5282aa4f6cb00b5a77772c55f, type: 3}
+    m_OverrideClip: {fileID: 7300723951068032348, guid: 30e303a4ef22a4a4a9c19d6228f3f00a, type: 3}
+  - m_OriginalClip: {fileID: 1937943805558876811, guid: 92592c6a0e5b546a9970738593efaff9, type: 3}
+    m_OverrideClip: {fileID: 4535812844001904038, guid: 24e5d6d5504e34cf194d1896fd16b357, type: 3}
+  - m_OriginalClip: {fileID: 5301726369750623324, guid: 74bdb91e5ce7f4736af102a2039e9732, type: 3}
+    m_OverrideClip: {fileID: 946468349822514671, guid: ee1590db0a3504da5be4a0ecf32da2aa, type: 3}
+  - m_OriginalClip: {fileID: 4432115058215061341, guid: d9109f072428549fea4719817fb62256, type: 3}
+    m_OverrideClip: {fileID: 4893946657193411462, guid: 91e4fe9a1e3214a96a44b2b703aa4348, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 37bd368191a10264eb7ea6efa07cb35a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0fdeb5016d461e44f9b08722b0698a41, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d496d3002f30a23448ce82976130285c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2c2210a679a7a3f40be5bec9cfc147f2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7ea82642b1dad434a834c78ec0dac736, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0c30ef0d563a6894e8c2b9457135264e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bdb04e9a5248053419f008abc83f579c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 00e1b9761c348c140851aaec714e2b54, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d3bdb373288ee3b4cb17851f69069920, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d3bdb373288ee3b4cb17851f69069920, type: 2}

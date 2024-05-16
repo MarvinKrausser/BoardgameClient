@@ -1,0 +1,7 @@
+﻿{
+  "message": "ERROR",
+  "data": {
+    "errorCode": 2,
+    "reason": "Name already taken."
+  }
+}

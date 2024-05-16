@@ -1,0 +1,7 @@
+﻿{
+  "message": "ERROR",
+  "data": {
+    "errorCode": 0,
+    "reason": "I am a error with error code 0."
+  }
+}

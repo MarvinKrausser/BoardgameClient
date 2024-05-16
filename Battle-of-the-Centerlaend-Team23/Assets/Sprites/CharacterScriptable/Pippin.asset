@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd36c7454b134af2894b766ee2f4ab8a, type: 3}
+  m_Name: Pippin
+  m_EditorClassIdentifier: 
+  overrideController: {fileID: 22100000, guid: 8c9edd73327769a4bb35027cd5c343b6, type: 2}
+  up: {fileID: -512314200071760408, guid: 75e35bdeb9410a44a9e363d9ffd6463e, type: 3}
+  down: {fileID: -746813659785545425, guid: 07911d7ee29164a3790ffa1483529010, type: 3}
+  left: {fileID: 3292440150001645037, guid: 0bd156942842e97448e0e1df17f54ea7, type: 3}
+  right: {fileID: -1033470560569267040, guid: c90b7d0e883c74bedb9cd0d800ec314b, type: 3}
+  weapon: {fileID: -4362075005097933725, guid: d115d142997f24acf831ef9047425818, type: 3}

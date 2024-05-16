@@ -1,0 +1,9 @@
+﻿{
+  "message": "CHARACTER_OFFER",
+  "data": {
+    "characters": [
+      "GANDALF",
+      "FRODO"
+    ]
+  }
+}

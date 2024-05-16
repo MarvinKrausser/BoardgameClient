@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BoromirOverride
+  m_Controller: {fileID: 9100000, guid: ac9185ebf7e843d4ab68d99715dd68f2, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -4088448922868584454, guid: 41acdac5282aa4f6cb00b5a77772c55f, type: 3}
+    m_OverrideClip: {fileID: 7124056129060268733, guid: b7920b90f72194f55b52ae6bf889244c, type: 3}
+  - m_OriginalClip: {fileID: 1937943805558876811, guid: 92592c6a0e5b546a9970738593efaff9, type: 3}
+    m_OverrideClip: {fileID: -2537252412749065935, guid: f65b3febc419649658b4ac0285c41ba7, type: 3}
+  - m_OriginalClip: {fileID: 5301726369750623324, guid: 74bdb91e5ce7f4736af102a2039e9732, type: 3}
+    m_OverrideClip: {fileID: -3073847718229756051, guid: 728d5d7c5804e424085dd36625b7ae4e, type: 3}
+  - m_OriginalClip: {fileID: 4432115058215061341, guid: d9109f072428549fea4719817fb62256, type: 3}
+    m_OverrideClip: {fileID: 4984719663013168415, guid: 5f4a4bda36e1047d681f8c6d2b820535, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 37bd368191a10264eb7ea6efa07cb35a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 05947643c46105b4a9946579d1be0ccf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d496d3002f30a23448ce82976130285c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 66f8c8b29c253aa48aee98a2c74cd48b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7ea82642b1dad434a834c78ec0dac736, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 26ba56e5f484e854f982cd705dd418cb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bdb04e9a5248053419f008abc83f579c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 193dcd28c88d7bb4fa6d725bb7bc33c4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d3bdb373288ee3b4cb17851f69069920, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d3bdb373288ee3b4cb17851f69069920, type: 2}

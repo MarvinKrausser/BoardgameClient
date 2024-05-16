@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd36c7454b134af2894b766ee2f4ab8a, type: 3}
+  m_Name: Galadriel
+  m_EditorClassIdentifier: 
+  overrideController: {fileID: 22100000, guid: 55157f58b87406b4ab8ccd6ddf9b8e9f, type: 2}
+  up: {fileID: 5751990131891751804, guid: 92bf9edf54af24433a0e28e4e8e71b7d, type: 3}
+  down: {fileID: -2915758968001024507, guid: f65119e87951040b1b3e6ef4c2d4e269, type: 3}
+  left: {fileID: 8814341902072699049, guid: 880057500813d49c5bcfabe0d51cd98b, type: 3}
+  right: {fileID: 7731868632103115950, guid: 2aa4cf9bc23eb43e08413ad515ebe017, type: 3}
+  weapon: {fileID: -3351462289976272948, guid: a0b4aa867550746f19d8e483821eb125, type: 3}

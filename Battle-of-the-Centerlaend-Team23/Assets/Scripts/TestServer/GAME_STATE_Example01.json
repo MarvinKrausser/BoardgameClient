@@ -1,0 +1,52 @@
+﻿{
+  "message": "GAME_STATE",
+  "data": {
+    "playerStates": [
+      {
+        "playerName": "Player1",
+        "currentPosition": [1, 2],
+        "spawnPosition": [1, 2],
+        "direction": "NORTH",
+        "character": "FRODO",
+        "lives": 3,
+        "lembasCount": 5,
+        "suspended": 0,
+        "reachedCheckpoints": 0,
+        "playedCards": [
+          "MOVE_1",
+          "MOVE_2"
+          ],
+        "turnOrder": 2
+        },
+        {
+        "playerName": "Player2",
+        "currentPosition": [2, 3],
+        "spawnPosition": [1, 3],
+        "direction": "NORTH",
+        "character": "GANDALF",
+        "lives": 3,
+        "lembasCount": 5,
+        "suspended": 0,
+        "reachedCheckpoints": 0,
+        "playedCards": [
+          "MOVE_1",
+          "MOVE_2"
+        ],
+        "turnOrder": 2
+      }
+    ],
+    "boardState": {
+      "lembasFields": [
+        {
+          "position": [0,9],
+          "amount": 6
+        },
+        {
+          "position": [9,0],
+          "amount": 6
+        }
+      ]
+    },
+    "currentRound": 69
+  }
+}

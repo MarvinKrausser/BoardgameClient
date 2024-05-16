@@ -1,0 +1,19 @@
+﻿{
+  "message": "GAME_END",
+  "data": {
+    "playerStates": [],
+    "winner": "Player1",
+    "additional": [
+      {
+        "name": "Amount Moves - Player1",
+        "value": "41",
+        "description": "The amount of moves Player1 has made."
+      },
+      {
+        "name": "Amount Moves - Player2",
+        "value": "69",
+        "description": "The amount of moves Player2 has made."
+      }
+    ]
+  }
+}

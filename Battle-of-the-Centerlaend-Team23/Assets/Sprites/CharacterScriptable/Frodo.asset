@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd36c7454b134af2894b766ee2f4ab8a, type: 3}
+  m_Name: Frodo
+  m_EditorClassIdentifier: 
+  overrideController: {fileID: 22100000, guid: 7b694321ceced7a489d53d03b3b836cb, type: 2}
+  up: {fileID: 2877926288464877323, guid: d7efa2c25f57648768d2071b602ccf55, type: 3}
+  down: {fileID: 5282431949869399972, guid: dd9cf0cfeaab9406092e39b45474e6d0, type: 3}
+  left: {fileID: 5398909485241732820, guid: 912b4819c7a344753b0725030c830e5a, type: 3}
+  right: {fileID: 1098199797717988375, guid: 99e60422caadf4954886408d635e5836, type: 3}
+  weapon: {fileID: 5235529942480084206, guid: c0099923da24149b38fe884b677b068d, type: 3}

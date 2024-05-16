@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd36c7454b134af2894b766ee2f4ab8a, type: 3}
+  m_Name: Merry
+  m_EditorClassIdentifier: 
+  overrideController: {fileID: 22100000, guid: 3ad2ce397b2262046ac35f634ea45440, type: 2}
+  up: {fileID: -2877723236494993962, guid: 84850747fb1824bff9fe26027b101b1e, type: 3}
+  down: {fileID: 1916223319259202062, guid: 1d597cac2c8a1442dac53f3371362b6e, type: 3}
+  left: {fileID: -3396441081708449398, guid: 0af7c20055834436f9386b5a9d66f682, type: 3}
+  right: {fileID: 8854747156771485410, guid: 29a9c783570554da5bffbe528d72147d, type: 3}
+  weapon: {fileID: -7416935507618640090, guid: b62c843a5409549309334aa8333ce2d8, type: 3}
